@@ -3,8 +3,8 @@ Exploring AI, Networking & Edge Computing
 
 ## Focus Areas
 - AI/ML Systems | Prompt Engineering & Optimization | Generative AI
-- Networking
 - Edge Computing
+- Networking
 - Python, Linux
 
 ## Current Project
