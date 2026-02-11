@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Arman
+# 👋 Hi there, I’m Arman Doust Mohammadi
 Exploring AI, Networking & Edge Computing
 
 ## Focus Areas
